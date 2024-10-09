@@ -1,6 +1,6 @@
 import 'package:flutter/painting.dart';
 
-const String googleApiKey = "YOUR_GOOGLE_API_KEY";
+const String googleApiKey = "AIzaSyApQp5MATSHUWicggY-ecnfsnWwe1FZFwI";
 const Color customOrangeColor = Color(
   0xffFFAC6E,
 );
